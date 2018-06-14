@@ -37,6 +37,7 @@ aside#sidebar ul li {
     padding: 20px 10px;
     font-family: Lucida, sans-serif;
     letter-spacing: 0.5px;
+    border-bottom: 1px solid #fff;
 }
 /* new */
 
